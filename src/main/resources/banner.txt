@@ -1,0 +1,17 @@
+
+HHHHHHHHH     HHHHHHHHH     WWWWWWWW                           WWWWWWWW     PPPPPPPPPPPPPPPPP
+H:::::::H     H:::::::H     W::::::W                           W::::::W     P::::::::::::::::P
+H:::::::H     H:::::::H     W::::::W                           W::::::W     P::::::PPPPPP:::::P
+HH::::::H     H::::::HH     W::::::W                           W::::::W     PP:::::P     P:::::P
+  H:::::H     H:::::H        W:::::W           WWWWW           W:::::W        P::::P     P:::::P
+  H:::::H     H:::::H         W:::::W         W:::::W         W:::::W         P::::P     P:::::P
+  H::::::HHHHH::::::H          W:::::W       W:::::::W       W:::::W          P::::PPPPPP:::::P
+  H:::::::::::::::::H           W:::::W     W:::::::::W     W:::::W           P:::::::::::::PP
+  H:::::::::::::::::H            W:::::W   W:::::W:::::W   W:::::W            P::::PPPPPPPPP
+  H::::::HHHHH::::::H             W:::::W W:::::W W:::::W W:::::W             P::::P
+  H:::::H     H:::::H              W:::::W:::::W   W:::::W:::::W              P::::P
+  H:::::H     H:::::H               W:::::::::W     W:::::::::W               P::::P
+HH::::::H     H::::::HH              W:::::::W       W:::::::W              PP::::::PP
+H:::::::H     H:::::::H               W:::::W         W:::::W               P::::::::P
+H:::::::H     H:::::::H                W:::W           W:::W                P::::::::P
+HHHHHHHHH     HHHHHHHHH                 WWW             WWW                 PPPPPPPPPP
